@@ -1,0 +1,9 @@
+.login_container {
+  position: absolute;
+  width: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 100px auto 0;
+}

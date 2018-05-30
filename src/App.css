@@ -1,0 +1,18 @@
+.p-zero {
+  padding: 0px !important;
+}
+.p-r-zero {
+  padding-right: 0px !important;
+}
+.p-l-zero {
+  padding-left: 0px !important;
+}
+.full-width {
+  width: 100% !important;
+}
+.full-height {
+  height: 100% !important;
+}
+.text-center {
+  text-align: center;
+}
